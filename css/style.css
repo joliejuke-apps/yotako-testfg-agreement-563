@@ -1,0 +1,47 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.iphonexxs11pro1row0 {
+  display: flex;
+  margin-left: 13.333333333333334vw;
+  margin-top: 13.333333333333334vw;
+  width: 50.93333333333333vw
+}
+.style1 {
+  color: #707070;
+  font-family: roboto-1,serif;
+  font-size: 21.333333333333332vw;
+  margin-left: 0;
+  margin-top: 0;
+  z-index: 0
+}
+.style2 {
+  background-color: #fff;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: -50.93333333333333vw;
+  margin-top: 7.466666666666667vw;
+  width: 50.93333333333333vw;
+  height: 1.0666666666666667vw;
+  z-index: 1
+}
+.style3 {
+  background-color: red;
+  border-left: .26666666666666666vw solid #0f0;
+  border-right: .26666666666666666vw solid #0f0;
+  border-top: .26666666666666666vw solid #0f0;
+  border-bottom: .26666666666666666vw solid #0f0;
+  margin-left: -34.4vw;
+  margin-top: 15.466666666666667vw;
+  width: 7.466666666666667vw;
+  height: 5.333333333333333vw;
+  z-index: 2
+}
+.breakpoint-0 {
+  display: block
+}
